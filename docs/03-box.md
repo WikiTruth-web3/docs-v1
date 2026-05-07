@@ -1,5 +1,5 @@
 ---
-title: What is a Evidence Box?
+title: Evidence Box
 description: An in-depth analysis of the core encrypted information container and access right asset in Evidence Market.
 sidebar:
   order: 1

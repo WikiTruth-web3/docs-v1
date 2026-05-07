@@ -1,5 +1,5 @@
 ﻿---
-title: 什么是证据盒子 (Evidence Box)？
+title: 证据盒子 (Evidence Box)
 description: 深入解析 Evidence Market 中的核心加密信息容器与访问权资产。
 sidebar:
   order: 1

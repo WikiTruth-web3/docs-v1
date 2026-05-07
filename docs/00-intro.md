@@ -21,7 +21,6 @@ Evidence Market includes two core markets:
 
 Leveraging the capabilities of Web3 smart contracts and token-based economic models, Evidence Market is dedicated to addressing issues such as a breakdown of trust, lack of transparency, leakage of whistleblower information, lack of safety guarantees for whistleblowers, and a lack of incentives that plague traditional crime reporting channels.
 
-
 ## Quick Start
 
 - **[Industry Status](/docs/pain-points)** - Understand the risks and lack of incentives faced by traditional reporting channels

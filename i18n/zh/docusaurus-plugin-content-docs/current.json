@@ -1,0 +1,38 @@
+{
+  "sidebar.docs.category.1. Status Quo & Problem": {
+    "message": "1. 现状与问题 (Problem)",
+    "description": "The label for sidebar category 1. Status Quo & Problem"
+  },
+  "sidebar.docs.category.2. Solution & Product": {
+    "message": "2. 解决方案与产品 (Solution & Product)",
+    "description": "The label for sidebar category 2. Solution & Product"
+  },
+  "sidebar.docs.category.3. Truth Box Market": {
+    "message": "3. 真相盒子市场 (Truth Box Market)",
+    "description": "The label for sidebar category 3. Truth Box Market"
+  },
+  "sidebar.docs.category.4. Bounty Market": {
+    "message": "4. 悬赏市场 (Bounty Market)",
+    "description": "The label for sidebar category 4. Bounty Market"
+  },
+  "sidebar.docs.category.5. Tokenomics": {
+    "message": "5. 代币经济学 (Tokenomics)",
+    "description": "The label for sidebar category 5. Tokenomics"
+  },
+  "sidebar.docs.category.6. Security Model": {
+    "message": "6. 安全与防御模型 (Security Model)",
+    "description": "The label for sidebar category 6. Security Model"
+  },
+  "sidebar.docs.category.7. Governance & Legal": {
+    "message": "7. 治理与合规 (Governance & Legal)",
+    "description": "The label for sidebar category 7. Governance & Legal"
+  },
+  "sidebar.docs.category.8. Vision & Appendix": {
+    "message": "8. 愿景与附录 (Vision & Appendix)",
+    "description": "The label for sidebar category 8. Vision & Appendix"
+  },
+  "sidebar.docs.category.9. Meaning": {
+    "message": "9. 意义与启示 (Meaning)",
+    "description": "The label for sidebar category 9. Meaning"
+  }
+}

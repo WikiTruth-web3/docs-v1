@@ -22,17 +22,17 @@ const sidebars: SidebarsConfig = {
         "product"
       ]
     },
-    {
+       {
       "type": "category",
       "label": "3. Truth Box Market",
       "items": [
-        "evidence-box",
-        "evidence-box-data",
-        "evidence-box-status-mechanism",
-        "evidence-box-market-process",
-        "evidence-box-create",
-        "evidence-box-exchange",
-        "evidence-box-smart-contracts"
+        "box",
+        "box-data",
+        "box-status-mechanism",
+        "box-market-process",
+        "box-create",
+        "box-exchange",
+        "box-smart-contracts"
       ]
     },
     {
@@ -47,13 +47,21 @@ const sidebars: SidebarsConfig = {
       "label": "5. Tokenomics",
       "items": [
         "rewards-fee",
-        "privacy-token",
         "token-allocation"
       ]
     },
     {
       "type": "category",
-      "label": "6. Security Model",
+      "label": "6. Privacy Token",
+      "items": [
+        "privacy-token",
+        "pay",
+        "pay-zcash"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "7. Security Model",
       "items": [
         "technical-solution",
         "user-privacy",
@@ -62,29 +70,30 @@ const sidebars: SidebarsConfig = {
     },
     {
       "type": "category",
-      "label": "7. Governance & Legal",
+      "label": "8. Governance & Legal",
       "items": [
         "dao",
+        "blacklist",
         "legal-and-cases",
-        "safety",
-        "blacklist"
+        "legal-challenge"
       ]
     },
     {
       "type": "category",
-      "label": "8. Vision & Appendix",
+      "label": "9. Vision & Appendix",
       "items": [
         "future",
         "dilemma",
+        "dilemma-tech",
         "faq",
+        "faq-2",
         "statement"
       ]
     },
     {
       "type": "category",
-      "label": "9. Meaning",
+      "label": "10. Meaning",
       "items": [
-        "industry-dilemma",
         "commercial",
         "innovative",
         "enlightenment",

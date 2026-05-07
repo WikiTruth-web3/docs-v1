@@ -1,88 +1,96 @@
 {
   "docs": [
-    "intro",
+    "00-intro",
     {
       "type": "category",
       "label": "1. Status Quo & Problem",
       "items": [
-        "pain-points",
-        "social-principle"
+        "01-pain-points",
+        "01-social-principle"
       ]
     },
     {
       "type": "category",
       "label": "2. Solution & Product",
       "items": [
-        "product"
+        "02-product"
       ]
     },
     {
       "type": "category",
       "label": "3. Truth Box Market",
       "items": [
-        "evidence-box",
-        "evidence-box-data",
-        "evidence-box-status-mechanism",
-        "evidence-box-market-process",
-        "evidence-box-create",
-        "evidence-box-exchange",
-        "evidence-box-smart-contracts"
+        "03-box",
+        "03-box-data",
+        "03-box-status-mechanism",
+        "03-box-market-process",
+        "03-box-create",
+        "03-box-exchange",
+        "03-box-smart-contracts"
       ]
     },
     {
       "type": "category",
       "label": "4. Bounty Market",
       "items": [
-        "bounty-token"
+        "04-bounty-token"
       ]
     },
     {
       "type": "category",
-      "label": "4. Tokenomics",
+      "label": "5. Tokenomics",
       "items": [
-        "rewards-fee",
-        "privacy-token",
-        "token-allocation"
-
+        "05-rewards-fee",
+        "05-token-allocation"
       ]
     },
     {
       "type": "category",
-      "label": "5. Security Model",
+      "label": "6. Privacy Token",
       "items": [
-        "technical-solution",
-        "user-privacy",
-        "challenge"
+        "06-privacy-token",
+        "06-pay",
+        "06-pay-zcash"
       ]
     },
     {
       "type": "category",
-      "label": "6. Governance & Legal",
+      "label": "7. Security Model",
       "items": [
-        "dao",
-        "legal-and-cases",
-        "safety",
-        "blacklist"
+        "07-technical-solution",
+        "07-user-privacy",
+        "07-challenge"
       ]
     },
     {
       "type": "category",
-      "label": "7. Vision & Appendix",
+      "label": "8. Governance & Legal",
       "items": [
-        "future",
-        "dilemma",
-        "faq",
-        "statement"
+        "08-dao",
+        "08-blacklist",
+        "08-legal-and-cases",
+        "08-legal-challenge"
       ]
     },
     {
       "type": "category",
-      "label": "8. Meaning",
+      "label": "9. Vision & Appendix",
       "items": [
-        "industry-dilemma",
-        "commercial",
-        "innovative",
-        "enlightenment",
+        "09-future",
+        "09-dilemma",
+        "09-dilemma-tech",
+        "09-faq",
+        "09-faq-2",
+        "09-statement"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "10. Meaning",
+      "items": [
+        "10-commercial",
+        "10-innovative",
+        "10-enlightenment",
         "thanks"
       ]
     }
