@@ -1,11 +1,11 @@
 ---
-title: Evidence Box State Mechanism
-description: Evidence Box lifecycle states, parameter comparison, and timeout rules.
+title: Evidence Blind Box State Mechanism
+description: Evidence Blind Box lifecycle states, parameter comparison, and timeout rules.
 sidebar:
   order: 9
 ---
 
-### Detailed Explanation of the Evidence Box State Machine
+### Detailed Explanation of the Evidence Blind Box State Machine
 
 ```solidity
 enum Status(
@@ -20,7 +20,7 @@ enum Status(
 )
 ```
 
-A Evidence Box will go through the following states, all strictly defined by the contract:
+An Evidence Blind Box will go through the following states, all strictly defined by the contract:
 
 1. **Storing**: The initial state after minting via the `create` method.
 2. **Selling**: Listed for sale at a fixed price.

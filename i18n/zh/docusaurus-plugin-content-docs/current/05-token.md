@@ -10,7 +10,7 @@ sidebar:
 `EMC` (Evidence Market Coin) 是生态系统的原生代币，具备以下核心效用：
 
 1. **交易媒介 (Medium of Exchange)**：
-   - 购买 Evidence Box 访问权的基础结算货币。
+   - 购买 Evidence Blind Box 访问权的基础结算货币。
    - 支付指数级增长的“延迟披露溢价 (Delay Premium)”。
    - 发布 Bounty 悬赏任务时锁定的底层资产。
 

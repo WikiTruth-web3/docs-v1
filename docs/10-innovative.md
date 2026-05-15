@@ -13,9 +13,9 @@ Evidence Market is not just another DeFi protocol, nor is it an ordinary NFT mar
 
 #### 1. Innovation at the Asset Level: Evidence as an Asset
 
-In traditional Web3, assets are usually tokens or artworks. Evidence Market, for the first time, defines **"criminal evidence"** and **"social truth"** as highly liquid crypto assets (Evidence Box).
+In traditional Web3, assets are usually tokens or artworks. Evidence Market, for the first time, defines **"criminal evidence"** and **"social truth"** as highly liquid crypto assets (Evidence Blind Box).
 
-- **From "Virtual" to "Real"**: Behind every Evidence Box corresponds crucial information that could change the situation in the real world. Its value is derived not from emotion, but from the rigid demand for truth in the real world.
+- **From "Virtual" to "Real"**: Behind every Evidence Blind Box corresponds crucial information that could change the situation in the real world. Its value is derived not from emotion, but from the rigid demand for truth in the real world.
 - **Confirmation of Ownership**: Using blockchain technology, we let whistleblowers truly own the ownership and disposal rights of the evidence, rather than just acting as a "Deep Throat" who could be silenced at any time.
 
 #### 2. Innovation of the Economic Model: Delay Disclosure Premium
@@ -43,7 +43,7 @@ In the past, whistleblowers often faced the risk of ruin and job loss. Evidence 
 
 #### 2. Change in the Judicial Game
 
-For law enforcement agencies, key evidence can be obtained at an extremely low cost by paying attention to Evidence Market's "Bounty Market" or "Trading Market". For criminals, Evidence Market will become the Sword of Damocles hanging overhead—**You never know when your accomplice will turn you into a Evidence Box for EMC.**
+For law enforcement agencies, key evidence can be obtained at an extremely low cost by paying attention to Evidence Market's "Bounty Market" or "Trading Market". For criminals, Evidence Market will become the Sword of Damocles hanging overhead—**You never know when your accomplice will turn you into a Evidence Blind Box for EMC.**
 
 #### 3. The Ultimate Form of Prediction Markets
 

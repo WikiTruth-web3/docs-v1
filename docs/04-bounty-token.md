@@ -1,13 +1,13 @@
 ---
 title: Bounty Token
-description: In-depth analysis of the "one-to-many" intelligence gathering and fund distribution mechanism in the Evidence Market bounty market.
+description: In-depth analysis of the "one-to-many" intelligence gathering and fund distribution mechanism in the Evidence Market Bounty Token.
 sidebar:
   order: 1
 ---
 
-If the Evidence Box is a passive blind box of "evidence first, buyer later", then the **Bounty Token** is an active intelligence network of "demand first, clues later".
+If the Evidence Blind Box is a passive blind box of "evidence first, buyer later", then the **Bounty Token** is an active intelligence network of "demand first, clues later".
 
-In the Evidence Market bounty market, a publisher can mint a Bounty Token, locking a certain amount of funds (such as `EMC`, `USDT`, etc.) in a smart contract to publicly solicit specific confidential clues from the global dark web and insiders.
+In the Evidence Market Bounty Token, a publisher can mint a Bounty Token, locking a certain amount of funds (such as `EMC`, `USDT`, etc.) in a smart contract to publicly solicit specific confidential clues from the global dark web and insiders.
 
 ---
 
@@ -53,9 +53,9 @@ A Bounty Token typically goes through the following states from creation to clos
 In a decentralized world, giving the publisher the right to distribute funds might seem to carry the risk of the publisher "reneging on a debt", but this is a carefully considered **optimal solution for market game theory**:
 
 - **Complexity of Verification**: Real-world secrets (such as someone's criminal record or internal emails) cannot be automatically verified by on-chain oracles or smart contracts. Only the person who raised the demand (the publisher) has the ability to verify the value of the clues.
-- **Reputation Game**: If an institution or individual continuously "reneges" in the Bounty Market (receiving real intelligence but refusing to pay), the reputation of their bounty address will go bankrupt, and no whistleblowers will be willing to provide clues for them in the future. In the intelligence trading market, **reputation is the admission ticket to high-value information**.
+- **Reputation Game**: If an institution or individual continuously "reneges" in the Bounty Token (receiving real intelligence but refusing to pay), the reputation of their bounty address will go bankrupt, and no whistleblowers will be willing to provide clues for them in the future. In the intelligence trading market, **reputation is the admission ticket to high-value information**.
 - **Multi-party Jigsaw Puzzle**: This mechanism encourages the participation of "universal intelligence agents". You don't have to grasp the whole truth; even if you only know a crucial phone number, you may get a share of the total reward pool.
 
 ### Summary
 
-The Evidence Market Bounty Market builds a **Trustless bridge** between the demand side and the supply side through **"front-loaded funds"** and **"privacy delivery"**. By combining modern cryptography and game theory, it subverts the ancient model of "bounty" on the blockchain.
+The Evidence Market Bounty Token builds a **Trustless bridge** between the demand side and the supply side through **"front-loaded funds"** and **"privacy delivery"**. By combining modern cryptography and game theory, it subverts the ancient model of "bounty" on the blockchain.

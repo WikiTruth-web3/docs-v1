@@ -17,29 +17,29 @@ Evidence Market 采用模块化智能合约，部署在 **Oasis Sapphire**（EVM
 
 - `Forwarder.sol`: 实现`ERC2771`标准元交易，支持代理支付（Gasless）交互, 也确保用户地址不会直接与合约进行交互。
 
-### Evidence Box Market
+### Evidence Blind Box
 
-- `EvidenceBox.sol`：核心资产合约，管理状态机、定价与期限，使用 Sapphire TEE 加密存储机密数据。
+- `EvidenceBlindBox.sol`：核心资产合约，管理状态机、定价与期限，使用 Sapphire TEE 加密存储机密数据。
 
 - `Exchange.sol`：交易引擎，处理 Sell/Auction/Buy/Bid/Refund/Complete 全流程。
 
 - `FundManager.sol`：资金托管与分配，负责多币种支付、自动兑换 (DEX 交互) 及收益分配。
 
-### Bounty Market
+### Bounty Token
 
-> 当前 Bounty Market 还在开发中，并未在测试网进行部署。
+> 当前 Bounty Token 还在开发中，并未在测试网进行部署。
 
 #### 网络与合约部署（主网/测试网）
 
-| 项目           | 主网           | 测试网                                                                                 |
-| -------------- | -------------- | -------------------------------------------------------------------------------------- |
-| 网络名称       | Oasis Sapphire | Oasis Sapphire Testnet                                                                 |
-| Chain ID       | 23294          | 23295                                                                                  |
-| 区块浏览器     | 未部署         | [Oasis Sapphire Testnet explorer](https://explorer.oasis.io/testnet/sapphire/address/) |
-| AddressManager | 未部署         | 0x268863DAeaAdcB45aBb010402600Dea7C0a04744                                             |
-| EvidenceBox    | 未部署         | 0x8Db771373077225aEb5Af7DFCa9ba33185ba0dB3                                             |
-| Exchange       | 未部署         | 0x0499bd1974FF382A49D0008b413422518E71e06d                                             |
-| FundManager    | 未部署         | 0x154f826356776a75B748373aDD310a5BB449a268                                             |
-| UserManager    | 未部署         | 0xeeF1c5Fd9bf0dFc8fD47D57c56B2ec9f52811CB2                                             |
-| SiweAuth       | 未部署         | 0x6547F0a925BD522F029D0aFEC3A239aCDcE0122a                                             |
-| Forwarder      | 未部署         | 0x6553408789c9ca50FDCa0E3120245674F4C529ad                                             |
+| 项目             | 主网           | 测试网                                                                                 |
+| ---------------- | -------------- | -------------------------------------------------------------------------------------- |
+| 网络名称         | Oasis Sapphire | Oasis Sapphire Testnet                                                                 |
+| Chain ID         | 23294          | 23295                                                                                  |
+| 区块浏览器       | 未部署         | [Oasis Sapphire Testnet explorer](https://explorer.oasis.io/testnet/sapphire/address/) |
+| AddressManager   | 未部署         | 0x268863DAeaAdcB45aBb010402600Dea7C0a04744                                             |
+| EvidenceBlindBox | 未部署         | 0x8Db771373077225aEb5Af7DFCa9ba33185ba0dB3                                             |
+| Exchange         | 未部署         | 0x0499bd1974FF382A49D0008b413422518E71e06d                                             |
+| FundManager      | 未部署         | 0x154f826356776a75B748373aDD310a5BB449a268                                             |
+| UserManager      | 未部署         | 0xeeF1c5Fd9bf0dFc8fD47D57c56B2ec9f52811CB2                                             |
+| SiweAuth         | 未部署         | 0x6547F0a925BD522F029D0aFEC3A239aCDcE0122a                                             |
+| Forwarder        | 未部署         | 0x6553408789c9ca50FDCa0E3120245674F4C529ad                                             |

@@ -1,5 +1,5 @@
 ---
-title: Project Background
+title: The Pain Point
 description: Centralized trust crisis, and the problem of weak evidence chains in crime reporting in real society.
 sidebar:
   order: 2

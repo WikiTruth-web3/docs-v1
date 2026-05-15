@@ -10,7 +10,7 @@ sidebar:
 `EMC` (Evidence Market Coin) is the native token of the ecosystem and possesses the following core utilities:
 
 1. **Medium of Exchange**:
-   - The basic settlement currency for purchasing Evidence Box access rights.
+   - The basic settlement currency for purchasing Evidence Blind Box access rights.
    - Paying the exponentially increasing "Delay Premium".
    - The underlying asset locked when publishing Bounty tasks.
 

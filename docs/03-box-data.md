@@ -1,6 +1,6 @@
 ---
-title: Evidence Box Data
-description: The data structure of Evidence Box.
+title: Evidence Blind Box Data
+description: The data structure of Evidence Blind Box.
 sidebar:
   order: 8
 ---
@@ -33,17 +33,17 @@ mapping(uint256 boxId => SecretData) internal _secretData;
 
 ## metadata-Box
 
-The metadata file of the Evidence Box is stored on IPFS. Its CID is not directly stored in the contract, but is recorded on-chain triggered by contract events.
+The metadata file of the Evidence Blind Box is stored on IPFS. Its CID is not directly stored in the contract, but is recorded on-chain triggered by contract events.
 
 ```solidity
 emit BoxCreated(boxId, userId, boxInfoCID_);
 ```
 
-There are two methods to create a Evidence Box: `create` and `createAndPublish`.
+There are two methods to create an Evidence Blind Box: `create` and `createAndPublish`.
 
 ### create
 
-Creates a sellable Evidence Box with the initial Status of `Storing`. Only `create` requires data encryption processing, and the metadata contains the encrypted data.
+Creates a sellable Evidence Blind Box with the initial Status of `Storing`. Only `create` requires data encryption processing, and the metadata contains the encrypted data.
 
 ```json
 {
@@ -73,7 +73,7 @@ Creates a sellable Evidence Box with the initial Status of `Storing`. Only `crea
 
 ### createAndPublish
 
-Creates a directly public Evidence Box with the Status of `Published`. It does not require encryption and does not contain symmetrically encrypted data. Instead, it directly stores the CIDs of the evidence files for direct access.
+Creates a directly public Evidence Blind Box with the Status of `Published`. It does not require encryption and does not contain symmetrically encrypted data. Instead, it directly stores the CIDs of the evidence files for direct access.
 
 ```json
 {

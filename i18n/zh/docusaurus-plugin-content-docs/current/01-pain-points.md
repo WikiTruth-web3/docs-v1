@@ -1,5 +1,5 @@
 ---
-title: 项目背景
+title: 痛点分析
 description: 中心化信任危机、现实社会中的犯罪举报与证据链脆弱问题。
 sidebar:
   order: 2

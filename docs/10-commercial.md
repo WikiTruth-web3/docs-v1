@@ -43,10 +43,10 @@ This is the key to closing the entire commercial model loop. Without buyers, whi
 
 ### 1. The Exposed Party (Fear-Driven Hard Demand for Loss Mitigation)
 
-When a Evidence Box containing "hard evidence of a listed company's financial fraud" is listed, the most panicked are the executives of that company.
+When a Evidence Blind Box containing "hard evidence of a listed company's financial fraud" is listed, the most panicked are the executives of that company.
 
-- **Purchase Motive**: They buy the Evidence Box not to pursue justice, but to **see exactly how many core details have been leaked**, thereby buying time for public relations cover-ups, asset transfers, or destruction of offline evidence.
-- **Commercial Logic**: Compared to billions in losses from a stock price crash, paying hundreds of thousands of dollars in a "Delay Premium" is entirely economically sound. **This fear-driven and loss-mitigating hard demand constitutes the strongest buyer fund support in the Evidence Box Market.**
+- **Purchase Motive**: They buy the Evidence Blind Box not to pursue justice, but to **see exactly how many core details have been leaked**, thereby buying time for public relations cover-ups, asset transfers, or destruction of offline evidence.
+- **Commercial Logic**: Compared to billions in losses from a stock price crash, paying hundreds of thousands of dollars in a "Delay Premium" is entirely economically sound. **This fear-driven and loss-mitigating hard demand constitutes the strongest buyer fund support in the Evidence Blind Box Market.**
 
 ### 2. Arbitrageurs in Financial Markets (Short Sellers and Competitors)
 
@@ -68,7 +68,7 @@ Combining the game theory between supply and demand, Evidence Market's commercia
 
 1. **Cold Start & Tipping Point**: Initially igniting demand among geek circles and victim groups through specific high-profile events (e.g., bounties for famous hacker clues) (driven by Bounties).
 2. **Wealth Effect Diffusion**: When the first whistleblower successfully secures $1 million by providing core clues and walks away unscathed, the consensus of "getting rich by whistleblowing" will rapidly spread globally in workplaces and grey areas (supply-side explosion).
-3. **Normalization of Passive Defense**: When non-compliant companies and bad actors realize they cannot stop internal leaks, they will be forced to continuously pay exorbitant delay protection fees in the Evidence Box Market, thereby contributing an endless stream of funds to the protocol.
+3. **Normalization of Passive Defense**: When non-compliant companies and bad actors realize they cannot stop internal leaks, they will be forced to continuously pay exorbitant delay protection fees in the Evidence Blind Box Market, thereby contributing an endless stream of funds to the protocol.
 
 ### Summary
 

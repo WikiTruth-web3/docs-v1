@@ -31,8 +31,8 @@ Evidence Market deeply perceives the psychological weaknesses of criminals, turn
 
 **3. The Shattering of Fluke Mentality**: Criminals always think the truth can be buried forever. But the long-term publication expectation set in Evidence Market's mechanism will shatter this fluke.
 
-**4. The Disintegration of Internal Trust**: Criminal syndicates are filled with mistrust internally. Evidence Market becomes a sword hanging over all accomplices—you never know who will turn you into a Evidence Box for a huge reward, thus detonating internal game theory.
+**4. The Disintegration of Internal Trust**: Criminal syndicates are filled with mistrust internally. Evidence Market becomes a sword hanging over all accomplices—you never know who will turn you into a Evidence Blind Box for a huge reward, thus detonating internal game theory.
 
-**5. The Deterrence of Unknown Authenticity**: Even if unsure of the authenticity of the evidence in the Evidence Box, the uncertainty of "what if it's real?" is enough to make criminals restless, prompting them to pay a price to verify its authenticity.
+**5. The Deterrence of Unknown Authenticity**: Even if unsure of the authenticity of the evidence in the Evidence Blind Box, the uncertainty of "what if it's real?" is enough to make criminals restless, prompting them to pay a price to verify its authenticity.
 
 Evidence Market leverages the scales of justice through the power of code precisely by anchoring and amplifying these complex human and social games.

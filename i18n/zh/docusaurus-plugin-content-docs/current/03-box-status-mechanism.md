@@ -1,11 +1,11 @@
-﻿---
-title: Evidence Box 状态机制
-description: Evidence Box 生命周期状态、参数对比与超时规则。
+---
+title: Evidence Blind Box 状态机制
+description: Evidence Blind Box 生命周期状态、参数对比与超时规则。
 sidebar:
   order: 9
 ---
 
-### Evidence Box 状态机详解
+### Evidence Blind Box 状态机详解
 
 ```solidity
 enum Status(
@@ -20,7 +20,7 @@ enum Status(
 )
 ```
 
-一个 Evidence Box 会经历以下状态，全部由合约严格定义：
+一个 Evidence Blind Box 会经历以下状态，全部由合约严格定义：
 
 1. **Storing**：create方法铸造后的初始状态。
 2. **Selling**：一口价出售中。

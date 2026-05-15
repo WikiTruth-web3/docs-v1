@@ -15,9 +15,9 @@ To this end, we have designed a **"Dual-Engine Driven"** model and a value captu
 
 Evidence Market's economic system does not merely rely on the moral sense of the "whistleblower" alone, but is driven by two real economic demands:
 
-### 🚗 Engine A: Passive Demand Driven (Evidence Box Mechanism)
+### 🚗 Engine A: Passive Demand Driven (Evidence Blind Box Mechanism)
 
-- **Scenario**: Whistleblowers hold confidential evidence and mint it into a blind box (Evidence Box).
+- **Scenario**: Whistleblowers hold confidential evidence and mint it into a blind box (Evidence Blind Box).
 - **Source of Funds**: High-stakes stakeholders (such as exposed violating enterprises) **passively pay** buyout fees and **exponentially increasing Delay Premiums** to view the evidence or delay its publication.
 - **Features**: Based on game theory, forcing wrongdoers to pay a real economic price to cover up the truth.
 

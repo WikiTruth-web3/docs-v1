@@ -25,7 +25,7 @@ A complete Web3 commercial closed loop cannot do without the deep liquidity supp
 Currently, the native DeFi infrastructure on the Oasis chain is relatively weak, lacking sufficiently deep liquidity pools. This leads to:
 
 - After whistleblowers receive `EMC.Privacy` bounties, it is difficult to swap them into stablecoins on the local chain with extremely low slippage.
-- When external buyers want to purchase a Evidence Box, they also face the cumbersome barrier of cross-chain bridging fiat or mainstream cryptocurrencies to Oasis and purchasing dedicated tokens.
+- When external buyers want to purchase a Evidence Blind Box, they also face the cumbersome barrier of cross-chain bridging fiat or mainstream cryptocurrencies to Oasis and purchasing dedicated tokens.
 
 ---
 
@@ -37,7 +37,7 @@ In response to the above dilemmas, the Evidence Market team has formulated a tec
 
 We believe that **absolute privacy** and **abundant liquidity** are difficult to achieve simultaneously on a single chain at this stage. Therefore, our architectural design strips these two apart:
 
-- **Execution Layer (Must be on Oasis Sapphire)**: The minting of Evidence Boxes, state machine transitions, key releases, and the final step of anonymous intelligence settlement—these life-and-death logics must be executed on the TEE privacy chain.
+- **Execution Layer (Must be on Oasis Sapphire)**: The minting of Evidence Blind Boxes, state machine transitions, key releases, and the final step of anonymous intelligence settlement—these life-and-death logics must be executed on the TEE privacy chain.
 - **Liquidity Layer (Distributed across mainstream EVM public chains)**: The main trading of the `EMC` token, liquidity mining, and stablecoin swap pools will be deployed on high-liquidity networks such as Ethereum, Arbitrum, or BSC.
 
 ### Actively Exploring Cross-Chain Bridging Solutions

@@ -22,7 +22,7 @@
     },
     {
       "type": "category",
-      "label": "3. 真相盒子市场 (Truth Box Market)",
+      "label": "3. 证据盲盒 (Evidence Blind Box)",
       "items": [
         "03-box",
         "03-box-data",
@@ -35,7 +35,7 @@
     },
     {
       "type": "category",
-      "label": "4. 悬赏市场 (Bounty Market)",
+      "label": "4. 悬赏令牌 (Bounty Token)",
       "items": [
         "04-bounty-token"
       ]

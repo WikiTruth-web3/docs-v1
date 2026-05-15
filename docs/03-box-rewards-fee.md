@@ -9,11 +9,11 @@ sidebar:
 
 Evidence Market's economic model is designed to balance **whistleblower incentives**, **community participation motivation**, and **platform sustainability**. All fund flows are automatically executed by smart contracts, ensuring they are transparent, fair, and immutable.
 
-### 1. Evidence Box Rewards Allocation
+### 1. Evidence Blind Box Rewards Allocation
 
 ![Rewards Allocation](/docs/rewards-allocation.svg)
 
-When a Evidence Box is successfully circulated (purchased) in the market, the transaction amount will be automatically allocated according to the following proportions. This not only rewards the provider of the truth but also incentivizes third-party participants who maintain market order.
+When an Evidence Blind Box is successfully circulated (purchased) in the market, the transaction amount will be automatically allocated according to the following proportions. This not only rewards the provider of the truth but also incentivizes third-party participants who maintain market order.
 
 - **Minter Reward**: The evidence provider receives the bulk of the transaction amount (deducting the Helper reward). If there are no Helpers, it all goes to the Minter.
 - **Helper Reward**: Qualified agent executors (Seller/Completer) can each receive 1% of the transaction amount.

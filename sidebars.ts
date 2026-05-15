@@ -27,7 +27,7 @@ const sidebars: SidebarsConfig = {
     },
        {
       "type": "category",
-      "label": "3. Truth Box Market",
+      "label": "3. Evidence Blind Box",
       "items": [
         "box",
         "box-data",
@@ -40,7 +40,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       "type": "category",
-      "label": "4. Bounty Market",
+      "label": "4. Bounty Token",
       "items": [
         "bounty-token"
       ]

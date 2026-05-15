@@ -16,7 +16,7 @@ Evidence Market adopts a Decentralized Autonomous Organization (DAO) model, wher
 
 ### Arbitration and Blacklist Rules
 
-- **Blacklist Governance**: The DAO can ban, refund, or destroy non-compliant addresses/Evidence Boxes, with all operations recorded on-chain.
+- **Blacklist Governance**: The DAO can ban, refund, or destroy non-compliant addresses/Evidence Blind Boxes, with all operations recorded on-chain.
 - **Dispute Adjudication**: In scenarios such as refunds/arbitration, the DAO has the final power of adjudication and can authorize a multi-signature security council to handle high-risk events in emergencies.
 - **Openness and Transparency**: All proposals, votes, handling resolutions, and multi-signature operations should be publicly accessible.
 

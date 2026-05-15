@@ -59,7 +59,7 @@ sidebar:
 
 ## Trading and Mechanisms
 
-#### Q: If I purchase evidence (Evidence Box), do I own its copyright?
+#### Q: If I purchase evidence (Evidence Blind Box), do I own its copyright?
 
 **A:** What you purchase is not copyright, but access rights to the confidential content. That is to say, you obtain the permission to view and use the content under a specific status/period (usually manifested as a private key or decryption access capability), and do not automatically obtain intellectual property rights such as copyright and patent rights.
 

@@ -17,7 +17,7 @@ We do not rely on the assumption of "human goodness", but follow the core princi
 
 **Defense Mechanism**:
 
-1. **Blacklist & DAO Arbitration**: The platform strictly prohibits uploading data involving personal privacy (IDs, residential addresses, private finances, etc.). Any Evidence Box violating the rules can be challenged by the community and voted into the blacklist by the DAO.
+1. **Blacklist & DAO Arbitration**: The platform strictly prohibits uploading data involving personal privacy (IDs, residential addresses, private finances, etc.). Any Evidence Blind Box violating the rules can be challenged by the community and voted into the blacklist by the DAO.
 2. **Burn & Refund**: Once deemed illegal content, the buyer can get a full refund, or the attacker's revenue is frozen, completely destroying the extortionist's economic motive.
 3. **Deterrence of Mandatory Publication**: Unlike traditional private extortion, Evidence Market's delay fees increase exponentially. Even if the buyer pays, the evidence will inevitably be published eventually, meaning the extortionist cannot promise the buyer "eternal secrecy".
 
@@ -32,7 +32,7 @@ We do not rely on the assumption of "human goodness", but follow the core princi
 **Defense Mechanism**:
 
 1. **Verification Period**: The buyer (usually the exposed party) is the best verifier of the evidence's authenticity. After paying the base price, the buyer gets the decryption key. If the buyer finds the evidence is fake, they can initiate a dispute arbitration to the DAO during the "inspection period" and apply for a refund.
-2. **Attack Cost**: Minting a Evidence Box requires paying network Gas fees. If refunded by the buyer and judged as fake by DAO arbitration, the attacker not only gains no revenue but also loses the initial cost and is marked as a malicious address.
+2. **Attack Cost**: Minting a Evidence Blind Box requires paying network Gas fees. If refunded by the buyer and judged as fake by DAO arbitration, the attacker not only gains no revenue but also loses the initial cost and is marked as a malicious address.
 3. **Bounty Staking Verification**: In the bounty model, the publisher has the final verification right. The smart contract will only release the bounty if genuine and valid information is provided.
 
 ---
@@ -44,7 +44,7 @@ We do not rely on the assumption of "human goodness", but follow the core princi
 **Defense Mechanism**:
 
 1. **Zero-Sum Game**: The system's main funds come from the buyers' real money (there is no out-of-thin-air token issuance to subsidize buyers). If whistleblowers and buyers collude to pass funds from "left hand to right hand," not only is there zero profit, but they will also lose the 3% service fee to the platform.
-2. **TEE Blinding**: Node validators cannot see the encrypted Evidence Box content, thus cannot collude with whistleblowers for content-based censorship.
+2. **TEE Blinding**: Node validators cannot see the encrypted Evidence Blind Box content, thus cannot collude with whistleblowers for content-based censorship.
 
 ---
 

@@ -1,6 +1,6 @@
-﻿---
-title: 证据盒子数据（Evidence Box Data）
-description: Evidence Box 的数据结构。
+---
+title: 证据盲盒数据（Evidence Blind Box Data）
+description: Evidence Blind Box 的数据结构。
 sidebar:
   order: 8
 ---
@@ -33,17 +33,17 @@ mapping(uint256 boxId => SecretData) internal _secretData;
 
 ## metadata-Box
 
-Evidence Box 的元数据文件存储在IPFS上，其cid并不会直接存储在合约中，而是通过合约事件触发，记录在链上。
+Evidence Blind Box 的元数据文件存储在IPFS上，其cid并不会直接存储在合约中，而是通过合约事件触发，记录在链上。
 
 ```solidity
 emit BoxCreated(boxId, userId, boxInfoCID_);
 ```
 
-Evidence Box 的有两种创建方法：`create`和`createAndPublish`。
+Evidence Blind Box 的有两种创建方法：`create`和`createAndPublish`。
 
 ### create
 
-创建一个可以出售的Evidence Box，创建后的Status为`Storing`，只有create需要对数据进行加密处理，元数据中包含加密后的数据。
+创建一个可以出售的Evidence Blind Box，创建后的Status为`Storing`，只有create需要对数据进行加密处理，元数据中包含加密后的数据。
 
 ```json
 {
@@ -73,7 +73,7 @@ Evidence Box 的有两种创建方法：`create`和`createAndPublish`。
 
 ### createAndPublish
 
-创建一个直接公开的Evidence Box，Status为`Published`，不需要加密，也不包含对称加密后的数据，而是直接存储直接访问的证据文件CID。
+创建一个直接公开的Evidence Blind Box，Status为`Published`，不需要加密，也不包含对称加密后的数据，而是直接存储直接访问的证据文件CID。
 
 ```json
 {
